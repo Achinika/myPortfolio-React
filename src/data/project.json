@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Online Vehicle Spare Parts and Rental App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project developed using MERN Stack Technology for Shantha Motors Spare Part and Rental Shop.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "source": "https://github.com/SLIITITP/y2_s2_wd_it_01-itp_wd_bo2_g25"
+    },
+    {
+      "title": "UI/UX - Lanka Holiday Website ",
+      "imageSrc": "projects/project.png",
+      "description": "This Project focused on selecting a currently deployed website with UX issues and re- designing UI of the Website for better User Experience.",
+      "skills": ["Figma"],
+      "source": "https://www.figma.com/file/J7u7iZokSxi5eQF7DPswfh/HCI-UI-design?type=design&node-id=221%3A3&mode=design&t=Ig67JTnIbts9cMBU-1"
+    },
+    {
+      "title": "Online Bidding System ",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn Object Oriented Concept with Java, JSP Servlet and MySQL .",
+      "skills": ["My SQL"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  

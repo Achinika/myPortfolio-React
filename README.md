@@ -5,7 +5,7 @@ This portfolio is created with React working in Vite.
 In the project directory, you can run following command:
   npm run dev
 
-Deployed Website Link- https://661bb4d9078ce8004569ae31--myportfolio-achinika-arangala.netlify.app/
+Deployed Website Link- https://myportfolio-achinika-arangala.netlify.app
 
 
 
